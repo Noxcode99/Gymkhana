@@ -1,0 +1,15 @@
+{
+  "short_name": "Intrepide",
+  "name": "Intrepide",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "26x26",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
