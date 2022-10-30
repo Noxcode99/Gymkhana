@@ -1,4 +1,4 @@
-# Visit Gymkhana
+# [Gymkhana App](https://gymmantras.netlify.app/  “Gymkhana”)
 ## Gym fitness website using react js and styled components
 
 - ## Design: [Intrepide](https://www.figma.com/file/cWhpA7Pyx2Ytrb4EFP1CFF/Intrepide?node-id=0%3A1)
@@ -16,4 +16,3 @@ npm install
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-## Visit Gymkhana [here](https://gymmantras.netlify.app/  “Gymkhana")
