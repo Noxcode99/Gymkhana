@@ -1,4 +1,4 @@
-# Intrepide
+# Visit Gymkhana [here](https://gymmantras.netlify.app/  “Gymkhana")
 
 ## Gym fitness website using react js and styled components
 
